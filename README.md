@@ -1,7 +1,5 @@
 # PolicyFlow Assignment Submission
 
-Campus Placement Software Engineering Practical Assessment
-
 ### Student Submission
 - **Project**: PolicyFlow
 - **Framework**: Laravel 11 (PHP 8.3)
